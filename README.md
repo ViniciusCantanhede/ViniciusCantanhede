@@ -1,2 +1,2 @@
 ### 📊 📈 👨🏽‍💻
--->### Email - viniciuscantanhede@gmail.com
+### Email - viniciuscantanhede@gmail.com
