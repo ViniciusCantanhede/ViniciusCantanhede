@@ -11,3 +11,4 @@
 ![Pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![Numpy](https://img.shields.io/badge/-numpy-05122A?style=flat&logo=numpy)&nbsp;
 ![MySql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
+![Scipy](https://img.shields.io/badge/-scipy-05122A?style=flat&logo=scipy)&nbsp;
