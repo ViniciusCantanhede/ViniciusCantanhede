@@ -4,11 +4,14 @@
 ### Email - viniciuscantanhede@gmail.com
 ### :brazil:
 ## 🛠 &nbsp;Tools
-![Pytohn](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Jupyther](https://img.shields.io/badge/-jupyter-05122A?style=flat&logo=jupyter)&nbsp;
-![ScikitLearn](https://img.shields.io/badge/-scikitlearn-05122A?style=flat&logo=scikitlearn)&nbsp;
-![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)&nbsp;
-![Pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas)&nbsp;
-![Numpy](https://img.shields.io/badge/-numpy-05122A?style=flat&logo=numpy)&nbsp;
-![MySql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
-![Scipy](https://img.shields.io/badge/-scipy-05122A?style=flat&logo=scipy)&nbsp;
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Vinicus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vinicus-sklearn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
+  <img align="center" alt="Vinicus-jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
+  <img align="center" alt="Vinicus-r" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
+  <img align="center" alt="Vinicus-sql" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/> 
+  <img align="center" alt="Vinicus-pandas" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
+  <img align="center" alt="Vinicus-numpy" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
+  <img align="center" alt="Vinicus-numpy" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+</div>
