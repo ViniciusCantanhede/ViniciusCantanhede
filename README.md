@@ -3,7 +3,7 @@
 ### 📈 Data Analytics 
 ### Email - viniciuscantanhede@gmail.com
 ### :brazil:
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tools
 ![Pytohn](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Jupyther](https://img.shields.io/badge/-jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 ![ScikitLearn](https://img.shields.io/badge/-scikitlearn-05122A?style=flat&logo=scikitlearn)&nbsp;
