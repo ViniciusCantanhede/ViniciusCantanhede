@@ -15,5 +15,5 @@
   <img align="center" alt="Vinicus-numpy" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
   <img align="center" alt="Vinicus-numpy" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
   <img align="center" alt="Vinicius-Sea" height="30" src= "https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
-  <img align="center" alt="Vinicius-plot" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"
+   <img align="center" alt="Vinicius-tensor" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
 </div>
