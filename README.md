@@ -1,3 +1,6 @@
+### Vinicius dos Santos
+![giphy](https://github.com/ViniciusCantanhede/ViniciusCantanhede/assets/111459715/e1da42e1-9998-4473-add4-1d143b9d21f2)
+
 ### 📊 Data Science
 ### :robot: Machine Learning
 ### 📈 Data Analytics 
@@ -17,3 +20,5 @@
   <img align="center" alt="Vinicius-Sea" height="30" src= "https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
    <img align="center" alt="Vinicius-tensor" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
 </div>
+
+
