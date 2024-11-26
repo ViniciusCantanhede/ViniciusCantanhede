@@ -5,6 +5,12 @@
 ### :robot: Machine Learning
 ### 📈 Data Analytics 
 ### Email - viniciuscantanhede@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-cantanhede-dos-santos-363a711a3/)
+
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-yellow)](https://huggingface.co/ViniDosSantos) 🤗
+
+
+
 ### :brazil:
 ## 🛠 &nbsp;Languages/Tools
 
