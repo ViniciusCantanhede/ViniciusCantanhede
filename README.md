@@ -1,6 +1,4 @@
-### Vinicius dos Santos
-![giphy](https://github.com/ViniciusCantanhede/ViniciusCantanhede/assets/111459715/e1da42e1-9998-4473-add4-1d143b9d21f2)
-
+# Vinicius dos Santos
 ### 📊 Data Science
 ### :robot: Machine Learning
 ### 📈 Data Analytics 
