@@ -1,3 +1,8 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+
 # Vinicius dos Santos
 ### 📊 Data Science
 ### 📈 Data Analytics 
@@ -24,10 +29,11 @@
   <img align="center" alt="Vinicius-tensor" height="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg"/>
 </div>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ViniciusCantanhede&theme=gotham&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ViniciusCantanhede&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCantanhede&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusCantanhede/ViniciusCantanhede/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniciusCantanhede/ViniciusCantanhede/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ViniciusCantanhede/ViniciusCantanhede/output/pacman-contribution-graph.svg">
+</picture>
 
----
-[![](https://visitcount.itsvg.in/api?id=ViniciusCantanhede&icon=0&color=0)](https://visitcount.itsvg.in)
+###
