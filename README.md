@@ -13,6 +13,7 @@
 ### 📈 Data Analytics 
 ### :robot: Machine Learning
 ### :crystal_ball: Deep Learning
+### 💬 GenAI
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-cantanhede-dos-santos-363a711a3/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:viniciuscantanhede@gmail.com) 
