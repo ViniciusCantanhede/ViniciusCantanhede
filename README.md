@@ -22,17 +22,6 @@
 
 <br/>
 
-<details>
-<summary><strong>Mais sobre mim</strong></summary>
-
-<br/>
-
-📊 Data Science | 📈 Data Analytics | 🤖 Machine Learning | 🔮 Deep Learning | 💬 GenAI
-
-</details>
-
-<br/>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/vinicius-cantanhede-dos-santos-363a711a3/">
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
